@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-
 	"github.com/Yandex-Practicum/tracker/internal/actioninfo"
 	"github.com/Yandex-Practicum/tracker/internal/daysteps"
 	"github.com/Yandex-Practicum/tracker/internal/personaldata"
